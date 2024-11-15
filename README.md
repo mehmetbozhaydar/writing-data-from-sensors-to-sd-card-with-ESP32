@@ -1,5 +1,5 @@
 
-# Example of writing data from sensors to sd card with ESP32
+# Example of writing data from sensors to sd card with ESP32 (ESP-IDF)
 
 **Components used;**
 
